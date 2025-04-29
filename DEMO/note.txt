@@ -1,0 +1,16 @@
+
+git remote add origin https://github.com/thanhvinh-code/demo-git.git
+-> liên kết local (laptop) 
+
+git add -A
+-> thêm tất cả vào stagging
+
+git commit -m "message"
+-> tạo commit( xác nhận) với nội dung là message 
+
+git push -u origin master
+-> đẩy lần đầu ( đẩy và publish nhanh master)
+
+git push
+-> đẩycommit lên remote
+
